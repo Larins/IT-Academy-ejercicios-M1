@@ -1,3 +1,3 @@
-# itacademy_m1
-# Ejercicios del módulo 1 de Back-End Java (IT Academy)
+# IT-Academy-ejercicios-m01
+# Ejercicios del módulo 01 de Back-End Java (IT Academy)
 # Alumna: Lara Saiz
